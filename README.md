@@ -15,5 +15,5 @@ Equipe:
 <h2> Links para Sites da Apresentação </h2>
 
 1. [Security Message](https://)
-2. [Avaliacao Docentes](https://github.com/lucasduete/avaliacao-docentes-api)
-3. [UpSafe](https://dashboard.heroku.com/apps/upsafe)
+2. [Avaliacao Docentes](https://avaliacao-docentes.herokuapp.com/)
+3. [UpSafe](https://upsafe.herokuapp.com/)
