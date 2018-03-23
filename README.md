@@ -10,9 +10,10 @@ Equipe:
 
 1. [JMeter](http://jmeter.apache.org/download_jmeter.cgi)
 2. [Plugin](http://)
-3. [Driver JDBC Postgres](http://)
+3. [Driver JDBC Postgres](https://jdbc.postgresql.org/download.html)
 
 <h2> Links para Sites da Apresentação </h2>
 
 1. [Security Message](https://)
-2. [nome link](link)
+2. [Avaliacao Docentes](https://github.com/lucasduete/avaliacao-docentes-api)
+3. [UpSafe](https://dashboard.heroku.com/apps/upsafe)
