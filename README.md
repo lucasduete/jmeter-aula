@@ -19,7 +19,7 @@ Equipe:
 3. [UpSafe](https://upsafe.herokuapp.com/)
 4. [ProjetoBD2](https://caioguilherme10.github.io/ProjetoBD2/index.html)
 
-<h2> Link para os Sites <h2>
+<h2> Link para os Sites </h2>
 
 1. [JMeter](https://jmeter.apache.org/)
 2. [BlazeMeter](https://www.blazemeter.com/)
